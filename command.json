@@ -1,0 +1,130 @@
+{
+  "ls": {
+    "a": "N"
+  },
+  "html": {
+    "!": "N",
+    "js": "file.html",
+    "lazy": "N"
+  },
+  "python": "file.py",
+  "pyinstaller": "file.py",
+  "cd": "folder",
+  "npx": {
+    "create-react-app": {
+      "my-app": "N"
+    },
+    "create-next-app": {
+      "my-app": "N"
+    }
+  },
+  "pip": {
+    "install": "N"
+  },
+  "move": "N",
+  "copy": "N",
+  "xcopy": {
+    "/E": "N"
+  },
+  "del": "N",
+  "echo '' > ": "N",
+  "npm": {
+    "run": {
+      "start": "N",
+      "build": "N",
+      "dev": "N"
+    },
+
+    "install": {
+      "sass": "N",
+      "react-content-loader": "N",
+      "@material-ui/core": "N",
+      "react-lazy-load-image-component": "N",
+      "@material-ui/icons": "N",
+      "framer-motion": "N",
+      "react-router-dom": "N",
+      "react-router-dom@5": "N",
+      "@reduxjs/toolkit": {
+        "react-redux": {
+          "redux": "N"
+        }
+      },
+
+      "--legacy-peer-deps": {
+        "sass": "N",
+        "react-content-loader": "N",
+        "@material-ui/core": "N",
+        "@material-ui/icons": "N",
+        "react-lazy-load-image-component": "N",
+        "framer-motion": "N",
+        "react-router-dom": "N",
+        "react-router-dom@5": "N",
+        "@reduxjs/toolkit": {
+          "react-redux": {
+            "redux": "N"
+          }
+        }
+      },
+      "--force": {
+        "sass": "N",
+        "react-content-loader": "N",
+        "@material-ui/core": "N",
+        "@material-ui/icons": "N",
+        "react-lazy-load-image-component": "N",
+        "framer-motion": "N",
+        "react-router-dom": "N",
+        "react-router-dom@5": "N",
+        "@reduxjs/toolkit": {
+          "react-redux": {
+            "redux": "N"
+          }
+        }
+      }
+    }
+  },
+  "git": {
+    "init": "N",
+    "add": {
+      ".": "N"
+    },
+    "commit": {
+      "-m": {
+        "\"commitMassage\"": "N"
+      }
+    },
+
+    "status": "N",
+    "branch": {
+      "second": "N",
+
+      "-d": {
+        "second": "N"
+      },
+      "-D": {
+        "second": "N"
+      },
+      "-a": {
+        "second": "N"
+      },
+      "-m": {
+        "second": "N"
+      }
+    },
+    "push": {
+      "origin": "git_branch"
+    },
+    "pull": {
+      "origin": "git_branch"
+    },
+    "checkout": "git_branch",
+    "remote ": {
+      "add": {
+        "origin": {}
+      }
+    },
+    "revert": "N",
+    "log": {
+      "--oneline": "N"
+    }
+  }
+}
